@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "starlit-zoo-326417",
+  "private_key_id": "aeef2e84847f96004644232e2f18cb141d859053",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC8kGvy00oxDbUQ\ng4YlsXcDzz1ekjjOQHtyU1fAJAzAhnGV/LLP2MRXcG7bBCrSFBkLphTfogMPBxHf\n9xi1yQZxT73GR0kp4OIGkPJgw37S7mp4acDhuYv8iEUrl+QbgLf7eAv0NnMhr1ab\nptUVA3tl2qnSZ//PwDT1gLPGp5bbJ+90qOZrQomVGEHix/CuOzlm1ldW94BnE3E4\nEq4/lcxlqspFT3yyCCJyo9sfB5Md9Gtb54tHKxMR7Qc8cATL7CRlQh/WFaUBbbcA\n1u9WkUmvHjRtqB0h+0xhMmbAJcA2XmYJY5DOZl287Lgq+VafSXetAhwo9bx18sT6\nrBEW5unTAgMBAAECggEACWjxoiQOK0WCWCkgHChvhoakiuAkKpLINkvXcLS72C29\nZF1AdSPdpHltZsud8W7kUxL+LqzQl0LkjvcvSf8WrbfrggYTrh3VWbuJBPAsl40j\nThAE+p6+UCNixEqnrQGu7MMwYYcIFtG/sjPQpWRPl6UiXWgoOW9flTLPheXeHuCY\nv8S+bmx624yzafayC3uoQ4BT5F3aHfX/KNQWEqlfmrnvwmaMGrjDJT/EmC0+OR+u\nkYuB2vzSPKYjVJhO1psnmGU5Uik2rsGLYQBAHiXfLCqN/Kj/7iVlp1HUpG/wLlKY\nTtYs9ZHnDJhh+C0jhlUvFbHzTOxtfaT1I8BqDEKMKQKBgQD1dlf8gf4Ix7KusdfB\nO6GGpM3BKuSiEi3pueLvZI5wca4YZAN88PEy5wEJThU66PxU8T0EmBBi4jUstagX\nYHefh63P4i4JsYav8S/4+XPZ4DmRI1tQD5WEA+m+pVfX+jYKFzdzJI23eZAFu8CJ\nKbMOZQw7iJDXPo/ETikkuglxWwKBgQDEqMLyCepYzR5E0xPMznrgp3OtA237gP71\nmeB1zh4T0HxnBbXJuR2thOk9mxsYRCl235qQ0jJtYW7S/moKi4JvsCeSGsQK73MD\nQt+V26Xsk4riDOTYGOhwrcqY0exs5DuQyYxzKQQBOCyNcdXsxZGakKLx5WpNl1FA\nQZ88Trqa6QKBgHrWf4+5CgUg0tXD4EIuclYsUV+S9Jn62Qk3Yk8FFpdE/KfuHSTA\neyRLIGSks9EoWWa01yFebAzgQVYfjoAsYZDvWFdJTFrDgbC41ZYWWBi3sndkp0S4\nl81aG/axTfWinLqOBczUhStFZYLJA8Bgot/YR7ffTwS4pT/LEaH0i9czAoGATwJm\nYAuvxUGTeZ88Azqpj3x3Mvl/xF3NEStjTLEk0F0gvdtDb+oZjE8rzf504kjwR7wK\nQ0jPzbYpakegnt/x5aFmJILwZFxTXuoNHg4DGYslbzAy+Mb5C9wm20Lrs8v2SnNP\nJC1EWKES9TjY86lkmC6n6Ht9O/MhR6mVqgsPWZECgYAH9xkzeof5y8ItFfRMyT/u\nw3bwHVN9i+nRML2cteeJOl7IaCI0pfoYTE1rzZtCjYD9E2iVHdL5s5iPaGtYaFOs\nHnoK+FFpYGiSuwvNwBysKmGcH4XYn1XrTeKgqYwyXQGNnQIV5AAQ3zBBR46SEkkG\nld2Bhe56NgHHvpWMQwfNVQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "htnbwwb@starlit-zoo-326417.iam.gserviceaccount.com",
+  "client_id": "115406966928520320145",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/htnbwwb%40starlit-zoo-326417.iam.gserviceaccount.com"
+}

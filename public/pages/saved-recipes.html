@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--bootstrap-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="../css/saved-recipes.css" rel="stylesheet" type="text/css" />
+    <title>My Recipes</title>
+</head>
+<body>
+    <button class = "add" onclick="add()">add new</button>
+    <div class="form-container">
+        <form id="form">
+            <input type="text" id="title-input"/>
+            <br>
+            <textarea type="text" cols="40" rows="50" id="text-input"></textarea>
+            <br>
+            <button class ="submit">submit</button>
+        </form>
+        <form id="img-scan">
+            <input type="file" id="img-upload" accept="image/*">
+            <button>submit image</button>
+        </form>
+        <button id="close-form">close</button>
+    </div>
+    <div id="recipe-cards-container"></div>
+
+    <div class="logsign">
+        <button class="LogIn" onclick="Log()">Log In</button>
+        <button class="SignUp" onclick= "Sign()">Sign Up</button>
+      </div>
+  
+      <div class="main">
+        <div class="Rect"></div>
+      <h1 id = "header">Recipes United</h1>
+      <img id = "title" src="Recipes_united_1.png"/>
+      </div>
+      <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+      <script src="../scripts/saved-recipes.js"></script>
+
+<!--Bootstrap CSS-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+</body>
+</html>

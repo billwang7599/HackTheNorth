@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Recipe</title>
+    <link rel="stylesheet" href="../css/randomizer.css">
+
+  </head>
+
+<div class="main">
+    <div class="Rect"></div>
+  <h1 id = "header">Recipes United</h1>
+  <img id = "title" src="Recipes_united_1.png"/>
+  </div>
+
+  <div class="accountpage">
+    <p class = "welcome">Welcome </p>
+    <button class="hamb is-active">
+      <div class="bar"></div>
+    </button>
+    <div class = "mobile-nav">
+      <a href='home.html' class="home" >Home</a>
+      <a href='/myrecipe.html' class="myr" >My Recipes</a>
+      <a href='/randomizer.html' class="rr">Random Recipe</a>
+        <div class="support">
+      <a href='#'class="sup">Support</a>
+      <a href='#'class="set">Settings</a>
+          </div>
+        </div>
+      </div>
+    <div class="randomreci">
+        <h4>Random Recipe</h4>
+        <p class = "p">Not sure what to make tonight? Or cant agree on a dish to make?<br> Use the randomizer to decide!
+        <div class="card-container">
+          <img id="card-image" class="card-image" src="https://assets.epicurious.com/photos/5c745a108918ee7ab68daf79/5:4/w_3129,h_2503,c_limit/Smashburger-recipe-120219.jpg">
+          <p id="card-d">This is a burger</p>
+        </div>
+          <button class = "select">Select</button>
+        <button onclick="randomize()" class = "randomize">Randomize</button>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+    <script src="../scripts/randomizer.js"></script>
+    
